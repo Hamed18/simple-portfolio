@@ -42,3 +42,18 @@ nav a{
 	color: orangered;
 	font-weight: 700;
 }
+
+/*header related styles*/
+
+.header{
+	background-color: antiquewhite;
+}
+
+.banner{
+	padding: 30px 30px 30px 150px;
+	display: flex;
+	align-items: center;
+}
+.banner .profile-pic{
+	width: 500px;
+}
